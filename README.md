@@ -27,3 +27,4 @@ As part of the University of Minnesota Statistics Capstone class I completed an 
 
 A research report for a Statistical Learning (Machine Learning) course, this project aims to predict college admissions using a variety of predictors such as high school GPA and test scores. Methods included Logistic Regression, KNN, and Random Forest and their performances were compared. 
 
+## If you have any questions regarding any of these projects, you can contact me at kintopjulius@gmail.com
