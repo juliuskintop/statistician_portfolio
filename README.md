@@ -11,6 +11,10 @@ The file DA_Associate_case_study.ipynb is a data analysis case study for the Dat
 
 The file DS_Associate_case_study.ipynb is the data science case study for the DataCamp certification of Data Scientist Associate. It involves loading in a dataset, cleaning the data for proper use, then applying machine learning methods to make predictions and provide recommendations.
 
+## DS Professional Case Study (Python)
+
+The file DS_Professional_case_study.ipynb is the case study for the DataCamp certification of Data Scientist Professsional. The goal is to create and apply machine learning methods to data provided by a company who posts recipes on their websites in order to accurately predict which recipes they post will generate high web traffic. Methods include Logistic Regression and Support Vector Machines.
+
 ## INET 4061 Lab10 (Python)
 
 As part of the class Data Science: Fundamentals (INET 4061) I was required to complete 10 labs that are mini data science projects done in python. This is an example of one of them, and provides a sample business problem, in this case a global climate agency wanted to analyze climate trends, so it is a time series analysis of climate data.
