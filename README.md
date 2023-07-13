@@ -1,4 +1,4 @@
-# statistician_portfolio
+# Statistician Portfolio
 Portfolio of works done in both R and Python that showcase skills such as machine learning and statistics.
 
 It contains notebooks and reports done in both R and Python that showcase data science, data analysis, and statistics methods to draw insights and make decisions.
