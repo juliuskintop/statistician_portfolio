@@ -19,5 +19,7 @@ As part of the class Data Science: Fundamentals (INET 4061) I was required to co
 
 As part of the University of Minnesota Statistics Capstone class I completed an independent research report which focused on performing machine learning methods including a "hurdle" approach using linear regression and logistic regression and comparing that to a Random Forest model to predict NFL Draft outcomes using NFL Combine metrics such as 40 yard dash, bench press, vertical jump, etc. as predictors.
 
-## Stat 4052 Final Project
+## Stat 4052 Final Project (R)
+
+A research report for a Statistical Learning (Machine Learning) course, this project aims to predict college admissions using a variety of predictors such as high school GPA and test scores. Methods included Logistic Regression, KNN, and Random Forest and their performances were compared. 
 
